@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>noun_Email_1617613</title>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#714FF8" offset="0%"></stop>
+            <stop stop-color="#2B00A2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#714FF8" offset="0%"></stop>
+            <stop stop-color="#2B00A2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="MAIN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="CONTACT" transform="translate(-160.000000, -714.000000)" stroke-width="3">
+            <g id="Group-9" transform="translate(158.000000, 328.000000)">
+                <g id="Group-2" transform="translate(0.000000, 129.000000)">
+                    <g id="Group-6" transform="translate(4.000000, 248.000000)">
+                        <g id="noun_Email_1617613" transform="translate(0.000000, 10.500000)">
+                            <path d="M16,32.5 C7.163444,32.5 0,25.336556 0,16.5 C0,7.663444 7.163444,0.5 16,0.5 C24.836556,0.5 32,7.663444 32,16.5" id="Path" stroke="url(#linearGradient-1)"></path>
+                            <path d="M32,16.2992537 C32,21.9331387 29.2712422,26.5 25.1500319,26.5 C23.8949026,26.4858624 22.707509,25.9567464 21.8934897,25.0488478 C21.5268031,24.5941117 21.2768694,24.0643326 21.1635751,23.5016635 C20.8750543,22.1622229 21.0896167,20.7690617 21.7699657,19.5643462 L21.9271781,19.2762498 C22.6193978,18.0150272 23.0645827,16.6447478 23.2410244,15.2322301 L23.2410244,15.2322301 C23.4595079,13.4345662 22.8181293,11.638541 21.4934064,10.3384501 C20.1686835,9.03835922 18.300234,8.37122407 16.4022858,8.52065122 L16.1776967,8.52065122 C11.2827761,8.9466927 7.42027718,12.6573711 7.02569012,17.3129262 L7.02569012,17.3129262 C6.86430572,19.0646669 7.46830242,20.8023662 8.69592638,22.1181982 C9.92355033,23.4340303 11.6667164,24.2121436 13.5163156,24.2699205 C17.0192763,24.4447611 20.2838699,22.5835497 21.7699657,19.5643462" id="Path" stroke="url(#linearGradient-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3030.75 445.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-width: 1.5px;
+        stroke-dasharray: 6 4;
+      }
+
+      .cls-1 {
+        stroke: #c4cee3;
+      }
+
+      .cls-2 {
+        stroke: #c3cee3;
+      }
+    </style>
+  </defs>
+  <title>motif-bg</title>
+  <g id="Calque_2" data-name="Calque 2">
+    <g id="Calque_1-2" data-name="Calque 1">
+      <g>
+        <path class="cls-1" d="M1540.8,0l-.26,432.5M1124.8,0l-.25,432.5M1955.46,13l-.25,432.5"/>
+        <path class="cls-2" d="M1.05,377.5h3029.7m-2174-164H2170.83M0,47.5H3029.7"/>
+      </g>
+    </g>
+  </g>
+</svg>

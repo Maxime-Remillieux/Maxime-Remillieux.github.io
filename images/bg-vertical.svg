@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1442 332.05">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-width: 1.5px;
+        stroke-dasharray: 6 4;
+      }
+
+      .cls-1 {
+        stroke: #c4cee3;
+      }
+
+      .cls-2 {
+        stroke: #c3cee3;
+      }
+    </style>
+  </defs>
+  <title>bg-vertical_4</title>
+  <g id="Calque_2" data-name="Calque 2">
+    <g id="Calque_1-2" data-name="Calque 1">
+      <g>
+        <path class="cls-1" d="M726.87,1.75,726.75,330M136.29,2.44l-.11,328.2M1315.85.75l-.12,330.62"/>
+        <path class="cls-2" d="M0,331.3H1442M137.94,166.06H1315.73M0,.75H1442"/>
+      </g>
+    </g>
+  </g>
+</svg>
